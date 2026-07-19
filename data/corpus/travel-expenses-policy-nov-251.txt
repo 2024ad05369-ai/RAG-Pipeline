@@ -1,0 +1,1909 @@
+ 
+ 
+ 
+ 
+Employee Travel and Expenses 
+Policy and Procedure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Document Control:  
+   
+Title: Employee Travel and Expenses Policy and 
+Procedure  
+Date Approved: April 2025 
+Date Next Review: September 2026 
+Policy/Procedure Owner: Human Resources, Procurement and Finance  
+Equality Impact Assessment: September 2025 
+Status of Document Final Version 2.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This policy will be reviewed periodically to ensure compliance with changes in financial regulations, HMRC 
+guidelines, employment law and equality and diversity legislation.  In the event that this policy or procedure 
+is not compliant, the relevant legislation shall prevail. 
+ 
+Changes to this policy will be subject to consultation with the University’s recognised Trade Unions 
+before implementation 
+2 
+ 
+ 
+Table of Contents 
+ 
+1. INTRODUCTION ..................................................................................................................................... 3 
+1.1  Purpose ................................................................................................................................................ 3 
+1.2  Guiding Principles ............................................................................................................................... 4 
+1.3 Scope ................................................................................................................................................... 4 
+1.4 Roles and Responsibilities in Processing Expenses ............................................................................ 5 
+2. EXPENSES ................................................................................................................................................ 6 
+2.1  Expenses Type..................................................................................................................................... 6 
+2.2 Employee Expenses............................................................................................................................. 6 
+2.3  Relocation Expenses ............................................................................................................................... 6 
+2.3 Non-Employee Expenses .................................................................................................................... 6 
+2.5 Entertaining Expenses ......................................................................................................................... 7 
+2.6 Receipts ............................................................................................................................................... 8 
+2.7 Claims Deadline .................................................................................................................................. 8 
+2.8 Rejected Claims................................................................................................................................... 8 
+2.9 Foreign Currency Payments ................................................................................................................ 8 
+2.10 Employee Expenses Payment Flow Diagram ........................................................................................ 9 
+2.4 Authority Levels .................................................................................................................................. 9 
+3. BUSINESS TRAVEL ................................................................................................................................ 9 
+3.1 Definition ............................................................................................................................................ 9 
+3.2 Travel Policy ..................................................................................................................................... 10 
+3.3 Approved Methods of Booking Travel ............................................................................................. 10 
+3.4 Use of Approved Supplier ................................................................................................................. 10 
+3.5 Pre-Trip Approval ............................................................................................................................. 10 
+3.6 Health and Safety .............................................................................................................................. 11 
+3.6.1 Risk Management .......................................................................................................................... 11 
+3.8 Travel Insurance..................................................................................................................................... 11 
+4. TRAVEL BY CAR / RENTAL / TAXI .................................................................................................. 11 
+4.1 Difference between Ordinary Commuting & Temporary Place of Work ......................................... 12 
+4.2 Employees who are contracted to Work from Home ........................................................................ 12 
+4.3 Employees with more than one workplace at same time .................................................................. 12 
+4.4 Emergency Call Out / Stand By ........................................................................................................ 13 
+4.5 Out of Hours Working....................................................................................................................... 13 
+5. TRAVELLING WITH A COMPANION ................................................................................................ 13 
+6. COMBINING BUSINESS AND PERSONAL TRIPS ........................................................................... 13 
+6.1 Loyalty Programmes ......................................................................................................................... 13 
+Appendix 1 ....................................................................................................................................................... 14 
+Table of Allowable / Non- Allowable Travel Expenditure ......................................................................... 14 
+3 
+ 
+Table of Allowable / Non- Allowable Subsistence & Accommodation ...................................................... 21 
+Table of Allowable / Non- Allowable Entertainment Expenses .................................................................. 26 
+Appendix 2 ....................................................................................................................................................... 27 
+Frequently Asked Questions ........................................................................................................................ 27 
+ 
+ 
+ 
+1. INTRODUCTION 
+ 
+1.1  Purpose 
+ 
+The purpose of this policy is to set out the procedure to be followed when organising business travel to ensure 
+that travellers are safe, their wellbeing is considered and that the travel arrangements made represent value 
+for money for the University. 
+ 
+This policy also provides guidance to employees when claiming expenses that have been incurred when 
+undertaking activities on behalf of the University. I t includes details of the types of expenses that can be 
+claimed.   
+ 
+Expenses are claimed through CHIME1 and further explanation regarding this process can be found on the 
+IntraBrunel CHIME pages: CHIME training and support 
+ 
+As a core principle, all expenses incurred must be wholly, necessarily, and exclusively incurred during 
+University business and reimbursed to employees on a nil-gain nil-loss basis. 
+ 
+Adhering to this policy will ensure: 
+ 
+• compliance with the University’s responsibility of duty of care for employees; 
+• the value for money will be measured in terms of the total financial and carbon costs of any travel and 
+any reasonable adjustments necessary.  
+• compliance with HMRC rules and requirements for tax;  
+• compliance with the University’s Financial Regulations;  
+• all business travel undertaken on the behalf of the University  qualifies as essential  and business-
+critical travel  
+• fairness, transparency and equity of treatment of all employees. 
+ 
+Provided the procedures set out herein are followed, employees will be covered by the University’s Travel 
+Insurance Policy and no additional tax or National Insurance contribution liability will arise. Employees will 
+not need to report details within their tax return. 
+ 
+This policy works in conjunction with other Finance policies including policies governing the use of Caxton 
+Cash Cards and Barclaycard Procurement Cards. For further information in respect of these please review 
+the relevant Procurement policy: students.brunel.ac.uk/documents/Policies/brunel-university-of-london-
+procurement-card-pcard-policy.pdf 
+It is brought to the attention of all traveling employees that failure to follow the policy may result in not being 
+covered by the Travel Insurance Policy and, where the policy has been deliberately circumvented, disciplinary 
+action may be taken by the Uni versity if warranted . The University reserves the right to refuse 
+reimbursement of any claim which is deemed to not adhere to this Policy.   
+ 
+Expenses claims can be subject to Freedom of Information requests which can be disclosed. 
+ 
+ 
+1 The University’s central business system or ERP. 
+4 
+ 
+1.2  Guiding Principles  
+ 
+Employees and Authorisers (i.e . Subproject owner / Financial Approver ) have the following 
+responsibilities: 
+ 
+• to exercise sensible judgement in determining the most sustainable and cost-efficient means of 
+carrying out the University’s business including choosing the most sustainable and cost-effective form 
+of transportation  and accommodation available through the TMC  and by staying within HMRC 
+approved subsistence rates; 
+• to question if travel is essential , employees are  encouraged to use conference calls and video 
+conferencing facilities to avoid unnecessary travel where appropriate; 
+• to ensure that the number of people travelling is kept to the minimum required to undertake the 
+required work while meeting health and safety requirements.  
+• to ensure  that all travel and accommodation is booked  through Diversity Travel , the University 
+approved supplier; any bookings not made through the supplier may be rejected for reimbursement 
+with payment to be settled by the employee; 
+• to ensure that all travel is arranged and undertaken with due concern for the safety of the employee/s 
+and any students; 
+• where claimants have individual needs relating to a disability that require adjustments to be made, 
+discussions should be held with the individual to agree the most practical mode of transportation 
+suitable for them. HR and Occupational Health should be in volved in these discussions and the HR 
+Employment Services Team advised in writing of what has been agreed so they are fully aware. Staff 
+who are pregnant must also be considered if an y adjustments are required for their travel 
+arrangements; 
+• to ensure that all required approvals are in place, and to retain all receipts to ensure expenses are 
+not rejected and that there is a correct audit trail; and, 
+• to remain in contact with the University/line manager whilst engaged on any work off campus on a 
+regular basis. 
+ 
+1.3 Scope 
+ 
+This policy applies only to the following group of people: 
+ 
+• all University employees excluding Hourly Paid Lecturers, GTAs and Demonstrators;   
+• student workers (Job Shop).  
+ 
+The HR Directorate’s Employment Services Team will pay all reasonable expenses incurred by employees 
+and student workers (not students) whilst they carry out their duties that comply with this policy. 
+ 
+The policy does not apply to: 
+ 
+• individuals who are self-employed or work as contractors or consultants for the University2; 
+• employees who may undertake private work for other organisations. In these cases, the 
+responsibility for repayment lies with the organisation for which the private work has been 
+undertaken; and, 
+• students of the University, unless employed via Job Shop.  
+ 
+ 
+External Funding (Research Grants) - Please note that this Policy applies to funds administered by the 
+University as well as those secured through 3 rd parties such as research grants and contracts. Where grant 
+funding rules are less strict than this Policy, then this Policy (which has been drafted in accordance with 
+HMRC guidance) will prevail. 
+ 
+ 
+2 Contracts for services should expressly state that expenses claimed by contractors or consultants should be in line 
+with the policy for employees. 
+5 
+ 
+Where a research grant has less strict rules than this policy then certain expenses, which are incurred as a 
+result of direct participation in specific activities related to research grants such as visits, meetings, 
+conferences and overseas travel will be agreed on an exceptional basis by the Senior Payroll and Reward 
+Manager. The expense type will need to be named in the grant and evidenced accordingly. Any exceptional 
+expenses agreed and paid outside of HMRC regulations will be made subject to PAYE deductions. 
+ 
+Where an employee becomes aware of such a conflict, they should raise it with the Research Support & 
+Development Office and/or Finance at the earliest opportunity so that it may be addressed either through an 
+amendment or via financial management of the grant.   
+ 
+1.4 Roles and Responsibilities in Processing Expenses  
+ 
+This document forms part of the University’s Financial Regulations.  It is the responsibility of the Vice 
+Chancellor, Deputy Vice Chancellor , Pro Vice Chancellors and  Executive Deans, Directors/Heads of 
+Departments and Line Managers responsible for budgetary control to ensure all employees and authorisers 
+are fully aware of the contents of this policy. 
+In processing expenses claims, the employee, their Line Manager, the relevant Financial Approver based on 
+the Department, as well as HR – Employment Services have the following responsibilities: 
+ 
+Claimant  
+ 
+The employee is responsible for ensuring that: 
+• any expense incurred will be wholly, necessarily, and exclusively in respect of business carried 
+out on behalf of the University; 
+• authoriser approval for travel has been obtained prior to the expenditure being incurred; 
+• overseas travel has been authorised by the line manager; 
+• all relevant safety policies and procedures have been adhered to;  
+• the claim fully complies with all the requirements set out in this policy document; 
+• the expenses claim is supported with original detailed receipts or, in the exceptional cases where 
+such receipts could not reasonably be obtained, a full explanation has been provided; and, 
+• expenses are submitted online through CHIME in a timely manner, and within three months of 
+the expense being incurred. 
+ 
+Authoriser (Subproject Owner/ Financial Approver) 
+ 
+In authorising payment of claims, the Authoriser has responsibility to ensure that:  
+ 
+• the expense claimed was wholly, necessarily, and exclusively in respect of business carried out 
+on behalf of the University; 
+• the expenses claimed are supported with original detailed receipts or, in the exceptional cases 
+where such receipts could not reasonably be obtained, other proofs can be accepted such as use 
+of contactless payments or a full explanation has to be provided; 
+• the claim fully complies with all the requirements set out in this policy; 
+• the expenses input are correct and valid Financial codes entered and 
+• the expenses claim was submitted within three months of the claim being incurred.  
+ 
+Brunel University London Payroll Team (Employment Services) 
+  
+The University’s HR Directorate is responsible for ensuring that: 
+ 
+• only authorised expenses are processed;  
+• the expenses claims are supported with original detailed receipts or, in the exceptional cases 
+where such receipts could not reasonably be obtained, a full explanation has been provided  to 
+the Payroll team on why a receipt is not included with the claim; 
+• the claims fully comply with all the requirements set out in this policy; 
+6 
+ 
+• the items and amounts claimed are authorised in line with allowable expenses listed in this 
+document and are free of tax 
+• where an expense has been submitted which may have tax implications, this will not be 
+processed and will be referred to the Senior Reward Manager who will liaise with the authoriser 
+before any reimbursement is made. 
+ 
+ 
+ 
+2. EXPENSES 
+ 
+2.1  Expenses Type 
+ 
+The University has two types of expenses:   
+ 
+• employee expenses   
+• non-employee expenses   
+ 
+2.2 Employee Expenses 
+ 
+This Policy details the processes regard ing payment of employee expenses. These expenses are paid 
+through Payroll.  
+ 
+2.3  Relocation Expenses 
+ 
+The University operates a discretionary Relocation Scheme that may be available to new employees, 
+depending upon circumstances, eligibility, and the availability of funding from the department/grant provider.  
+The University Relocation policy / Relocation Expenses fall outside the scope of this policy document. This 
+is covered separately in the HR Relocation policy document found  at: relocation-policy-2023-final  
+ 
+ 
+2.3 Non-Employee Expenses 
+ 
+Non-employee expenses are subject to the same principles and terms outlined in this policy  however the 
+administration of the Non- Employee Expenses is outside of the scope of the policy and is administered  by 
+Accounts Payable. Please contact: payments@brunel.ac.uk  Non-employee expenses include: 
+ 
+o Costs Incurred by Third-Party individuals:  Visiting academics researcher engaged in 
+authorized University activities, as well as, guest speakers, workshop facilitators or event 
+participants. 
+o Interview-Related Expenses: Reimbursement of travel, accommodation subsistence for 
+candidates attending interviews or related activities. 
+o Student Reimbursements: Examples Disabled Students' Allowance (DSA) laptop 
+contributions, travel costs for University-related activities (e.g., study-related trips) etc. 
+o  
+Expense Claim Process for Non-Employees 
+ 
+For individuals who are not employed by the University and wish to submit an expense claim: 
+ 
+1. Non-Staff Expense Claim Form: 
+o The host department should provide the claimant with the Non-Staff Expense Claim form for 
+completion. 
+o Receipts must be submitted for all expenses. If receipts are lost or unavailable, alternative 
+evidence (e.g., e-receipts, bank statements, or photographs of receipts) may be provided, 
+accompanied by an explanation. These claims are subject to approval by the department 
+budget holder. 
+o Claims without sufficient evidence of payment may be refused. 
+ 
+7 
+ 
+2. Host Department Review:  
+o The host department is responsible for reviewing the completed form and resolving any 
+discrepancies before submitting it to the Accounts Payable (AP) team for processing. 
+ 
+3. Submission Process: 
+o Forms and supporting receipts must be submitted as PDF files with all details clearly legible. 
+o The host department must verify the receipts and code the claim appropriately before 
+sending them to the AP team. 
+ 
+4. Submission and Processing: 
+o The completed and verified form, along with supporting documents, should be emailed to the 
+AP team at Payments@brunel.ac.uk. 
+o The form will be registered in CHIME for workflow approval by the budget holder and 
+financial approvers. 
+ 
+5. Payment Schedule: 
+o Payments will be processed on the nearest weekly payment run every Wednesday, subject 
+to full approval. 
+ 
+Overseas Non staff expenses 
+Employees engaging with individuals overseas for research or other University-related work must ensure 
+that all expense payments comply with the University’s policy on the engagement of overseas 
+individuals.  The procedure outlined above applies. For assistance with capturing overseas banking details 
+or addressing specific requirements related to international payments, please contact the Accounts Payable 
+(AP) team at payments@brunel.ac.uk .  The overseas payment run is normally run on a weekly basis 
+subject to full approval.  
+ 
+2.5 Entertaining Expenses 
+ 
+Whilst entertaining is accepted as part of normal business relationship building , the University and its 
+employees have a responsibility to avoid situations where giving or receiving hospitality can be deemed to 
+have influenced a business decision to ensure compliance with the University’s Procurement guidelines.  
+ 
+ It is not the policy of the University to give gifts to host or external organisations or individuals as the 
+University wants to avoid any possible allegations of bribery (under the Bribery Act 2010). Please refer to 
+the University’s Anti-bribery and corruption policy 2023 
+ 
+It is expected that wherever possible entertainment should be on the University’s premises. 
+Where entertaining on campus, please ensure bookings are co -ordinated through local administration 
+colleagues. Expenses relating to entertaining on campus will not be reimbursed via Staff Expenses claims 
+as these need to be organised through Campus Services. 
+ 
+ The following rules apply when offering business hospitality and claiming back expenditure for entertaining 
+off campus: 
+ 
+• the cost of business entertainment must be reasonable and not be considered extravagant;  
+• there should be more guests / visitors than employees at such events. The ratio is a critical factor if 
+challenged by HMRC.  If HMRC deem that there were more employees than visitors, they could 
+determine that event was purely social and thus a benefit in kind and therefore taxable; 
+• the purpose of the entertainment should be articulated in the CHIME Expenses form; 
+• refreshments purchased on campus for hospitality purposes, for example in retail and hotel outlets, 
+should be purchased by providing a subproject code and it should be recorded that the expenses are 
+business related. Non-business related expenses cannot be claimed.  
+8 
+ 
+• the University will meet reasonable costs for provision of alcohol however excessive quantities are 
+not permissible;  this is limited to wine and beer and not more than 2 alcoholic drinks per person 
+• reasonable amount(s) will be allowed for gratuities only when shown on the receipt .; normally not 
+more than 10% of the bill.  
+ 
+2.6 Receipts  
+ 
+To comply with HMRC requirements, expenses reimbursement will only be made where items on an expense 
+claim are supported by a valid receipt (uploaded to CHIME - electronic copies acceptable). A valid receipt 
+should include: 
+ 
+• company / vendor name and address; 
+• date of transaction; 
+• breakdown of items;   
+• total amount due. 
+ 
+ 
+Where a vendor cannot provide a printed receipt, the employee should ask the vendor to provide a hand-
+written receipt and this should be stamped clearly stating supplier details, date of transaction and a list of 
+details of items purchased. 
+ 
+Electronic and email receipts for online bookings will be accepted as long as they provide full details of the 
+items purchased, cost, and vendor.   
+ 
+Credit and debit card transaction receipts are not considered valid receipts  and will not be accepted.  
+Evidence of purchases such as bank statements are also not acceptable. 
+ 
+Claims that are not supported by valid receipts will be rejected.   
+ 
+If there is a valid reason for not providing a receipt , then the item may be reimbursed as a taxable payment 
+(subject to the approval of the Senior Payroll & Pensions Manager).    
+ 
+ 
+2.7 Claims Deadline 
+ 
+Employees are required to complete  their expense  claims through CHIME promptly to ensure financial 
+information is up to date and to avoid delay in settlement.  
+ 
+Claims authorised after the published Payroll deadline, which is typically the 10th of the month, will be paid 
+the following month. The University will not amend its timelines for any late claims. It is therefore both the 
+employee and their Authoriser’s responsibility to present claims in a timely manner.  
+ 
+Claims should be submitted within 3 months from the end of the month in which the expense is incurred. Any 
+claims made after 3 months will need to be referred to the University’s Senior Payroll & Pensions Manager 
+for additional authorisation before payment will be made. The University withholds the right to not reimburse 
+any expense claims which are not submitted in a timely manner. 
+ 
+2.8 Rejected Claims 
+ 
+Claims that do not comply fully with this Policy, or where there is missing information or receipts, may be 
+rejected and returned unpaid to the employee by the authorising officer,  or rejected by the Payroll Team 
+following communication with the claimant / authoriser. 
+ 
+2.9 Foreign Currency Payments 
+ 
+Where an employee has incurred expenditure in foreign currency, the employee will be responsible for 
+claiming the expense at a conversion rate they can justify. CHIME will automatically use the University’s 
+9 
+ 
+agreed exchange rate as on the date of the expense to convert foreign currency amounts into GBP. This rate 
+can be overwritten by the employee at time of entry with an appropriate alternative rate in force at the time  
+that the expense was incurred. This new rate must be supported by an attached credit/debit card statement 
+or Bureau de Change receipt showing the rate used to convert the currency to GBP. An original receipt must 
+also be attached to support the actual expense being claimed. 
+ 
+ 
+ 
+2.10 Employee Expenses Payment Flow Diagram 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If you are the claimant and the subproject owner, the claim will not be directed to you but will go directly to 
+the financial approver.  If you are all three parties, the claim will be re -directed to another party withi n the 
+Financial Approval Group. 
+ 
+2.4 Authority Levels 
+ 
+Expenses cannot be self -authorised and will not be paid until they are authorised in accordance with the 
+University’s Scheme of Delegation, within the CHIME system. 
+ 
+The authoriser (Subproject Owner / Financial approver ) has a duty to exercise control over costing and to 
+ensure that only legitimate expenses are authorised. Where the employee is incurring costs o n behalf of 
+another subproject owner, the authoriser must  seek assurance from the employee that the subproject owner 
+has approved such expenditure.Such cross checking, enables staff to work flexibly across functions where 
+their role requires it yet retains the Authoriser approval to ensure that departmental accountability is in place. 
+ 
+In the case of expenses incurred by the Vice -Chancellor and President, these must be authorised by the 
+Chair of Council or Deputy Chair of Council. 
+ 
+ 
+3. BUSINESS TRAVEL 
+ 
+3.1 Definition  
+ 
+Business travel is defined as travel primarily for a necessary business purpose which does not include normal 
+daily commute (as defined in the Contract of Employment) for which a claim is not permitted.   
+Enter your  
+Expenses 
+(Employee) 
+Subproject Owner  
+Enter your amendment  
+(or cancel your claim) 
+(Employee) 
+Expenses available ready for  
+processing and then payment  
+through payroll. 
+No 
+Yes 
+No 
+Financial approval 
+Yes 
+10 
+ 
+ 
+ 
+3.2 Travel Policy 
+ 
+As a general principle, both the employee and their authoriser must always consider  whether travel is 
+necessary, whether business can be conducted using alternative means (e .g. Teams) and must also take 
+into account the following before making any travel arrangements: 
+ 
+• administrative staff will book on behalf of all Academics and College staff where required. 
+• consider if the journey is necessary , c an the meeting take place via video conferencing / 
+telephone?  
+• where a journey is necessary, consider the most cost -effective and sustainable mode of 
+transportation;  
+• air travel within the mainland UK, to Paris or Brussels is  not allowable. Line Managers may 
+approve requests for air travel to these destinations only where there is a strong justification 
+(which may be related to EDI or opportunity costs).  
+• if travelling to other parts of Europe, consider whether Eurostar and local trains is a viable option 
+for travel; 
+• cars should only be used where it is more cost effective than other modes of transportation ( i.e. 
+where several employees are going to same meeting can car/taxi share); 
+• ensure that the selected mode of transport is safe, paying particular attention to risks associated 
+with lone travellers; 
+• to use the University’s preferred travel supplier (Diversity via Diversity Travel - Client Login)in 
+all cases; 
+• Staff booking a hotel which exceeds the rate caps indicated in the tab at the end of this document 
+will need to seek approval from their Line Manager through the TMC’s booking tool; 
+• wherever possible try to make travel reservations early to take advantage of cheaper fares and 
+accommodation; and, 
+• ensure that appropriate health and safety risk assessments are in place. 
+ 
+3.3 Approved Methods of Booking Travel 
+ 
+When booking travel, employees together with their authoriser have a responsibility to ensure that the method 
+of transport chosen, always through the approved travel supplier, Diversity, offers the best value for money 
+but at the same time considers expediency, personal safety as well as the environmental costs of the travel.  
+Employees must use the University’s approved travel Supplier, Diversity. 
+ 
+ 
+3.4 Use of Approved Supplier 
+ 
+The University’s preferred approved travel Supplier is Diversity Travel. All travel and accommodation must 
+be arranged through the preferred supplier and only in exceptional circumstances will a reimbursement be 
+made to an employee for travel costs incurred. .  
+ 
+Any queries in this regard should be discussed with the Payroll Team (Employment Services) in advance of 
+any costs being incurred to ensure approval is in place to process a reimbursement. The preferred supplier 
+will endeavour to source the most economical options, and provide a Price Match guarantee3 which is further 
+detailed on the Booking platform  Booking Tool 
+ 
+3.5 Pre-Trip Approval 
+ 
+Before a travel booking can be made for you as a traveller, and for the University’s travel insurance to cover 
+you, you need to make sure that you have: 
+ 
+ 
+11 
+ 
+• Permission from your line manager and of the sub project owner of the budget paying for the travel. 
+'How to book travel' page: Booking travel (brunel.ac.uk) 
+ 
+The University has a legal and moral duty of care to do what is reasonably practical to protect the health and 
+safety of its employees, both in the workplace and when they are travelling on business. 
+ 
+This duty of care is even more important where employee(s) travel abroad for work. A full Risk,Health & 
+Safety and Assessment must be carried out by the line manager /appropriate personnel and the employee 
+before travel can be authorised. 
+ 
+3.6 Health and Safety  
+ 
+The University Travel Safety Policy must be adhered to. Advice on health and safety issues can be obtained 
+from the Health Safety and Environment Team (healthandsafety@brunel.ac.uk). 
+ 
+3.6.1 Risk Management  
+ 
+All overseas activities carried out by staff and students require a risk assessment prior to travel. The Risk 
+Assessment Checklist, and other advice can be found under Risk Assessment 
+ 
+Further guidance on risk assessments can be found here: Risk Assessment Policy 
+ 
+If you require further information or guidance please contact heathandsafety@brunel.ac.uk  
+ 
+In cases of travel to countries where there may be a risk of bribery and corruption, please read the 
+University’s Guidance on Facilitation Payment carefully.  Transparency International’s Corruption 
+Perception Index provides an indication of the level of risk in every country. 
+ 
+ 
+3.8 Travel Insurance 
+ 
+Appropriate university travel insurance MUST be arranged at the time of booking any overseas travel. Further 
+information and contact details can be found here: Travel insurance 
+If travelling within the UK and pre-booked air or rail travel is used and where personal or University property 
+of significant value is being carried, it is recommended that University travel insurance is arranged. University 
+travel insurance covers medical treatment overseas, but not for any UK travel. 
+Brunel has blanket travel insurance in place. Employees can apply for this on-line on the Brunel Intranet and 
+complete the on -line form ( which covers both UK and Overseas travel ).  Once the form is completed the 
+Head of Department will receive notification and the staff member will automatically receive details of their 
+travel policy cover electronically.  
+Additional information regarding travel insurance can be found under the Frequently Asked Questions  
+section (Appendix 2) of this document. 
+4. TRAVEL BY CAR / RENTAL / TAXI 
+ 
+When employee(s) use their own car for University business, they will be personally liable for any incident or 
+accident, not the University. Drivers must ensure that their own private motor insurance policy is 
+comprehensive and permits the use of their car for University business. The HMRC approved Mileage 
+rates will apply to all vehicle fuel types including electric and ULEV.   
+ 
+Where a hire  vehicle is required in the UK,, the University’s preferred car rental supplier is Enterprise,. If you 
+need to hire a vehicle outside the UK please do so  by contacting Diversity Travel’s Oak Team at:  
+oak@diversitytravel.com.The employee is fully responsible for the vehicle in their care. Whilst it is assumed 
+12 
+ 
+the insurance will be arranged with the rental hire company (Enterprise), the employee will remain responsible 
+for all costs incurred that are not covered by the insurance, as well as costs for any fines or parking tickets 
+received.   
+ 
+The use of Taxis is by exception, further details on when reimbursements will be made are provided in 
+Appendix 1. 
+ 
+4.1 Difference between Ordinary Commuting & Temporary Place of Work 
+ 
+• Ordinary Place of Work  – Claims for travel between home and the normal or permanent place of 
+work, are not allowable (also see 4.5 below for exceptions)  
+The place of work is defined as an employee's permanent workplace if they attend it regularly for the 
+performance of their employment duties.  
+ 
+• Temporary Place of Work  – Claims for travel to a temporary place of work may be tax allowable. 
+The work place is considered temporary if an employee attends only to perform a task for a limited 
+period or for a temporary purpose. If you will be attending the alternative place of work for either 40% 
+or more of your time or for over 24 months, then this would not be tax allowable under HMRC 
+definitions. A temporary workplace can also be in a location significantly removed from the employee's 
+normal place of work for it to be considered under these rules.  
+ 
+ 
+4.2 Employees who are contracted to Work from Home 
+ 
+Whether or not an employee’s home is their workplace does not affect the availability of tax relief for travel 
+expenses. Even though it may have been accepted that the employee’s home is a workplace, it does not 
+necessarily follow that they will be entitled to tax relief for the cost of travel between their home and a 
+permanent workplace. Under HMRC definitions, tax relief on travel from home where an employee works 
+from home does not usually apply as it is not an objective requirement of the job to work fr om home ie. the 
+work can be done elsewhere at one of the University sites. The expense of travelling from their home to any 
+other place is a consequence of the personal choice of where an employee lives, not an objective requirement 
+of the job.  
+ 
+ 
+4.3 Employees with more than one workplace at same time 
+ 
+When an employee might be required to make regular attendance at more than one workplace  mileage 
+expenses from home to either workplace cannot be claimed as this is deemed ordinary commuting .  
+ 
+The indicators of a workplace being a second permanent workplace includes:  
+ 
+• the employee regularly performs a significant part of their duties there;  
+• people would expect to be able to contact the employee at the second location;  
+• the employee has an office, or desk, and support services at the second workplace which  they 
+regularly use;  
+• the employee performs similar tasks at each workplace; and  
+• the employee does not attend the workplace solely to do specific tasks such as attendance at a 
+specially arranged meeting. 
+ 
+For Employee’s based at Granta Park, Cambridge any travel to Uxbridge would not be classed as a business 
+journey as HMRC would view Uxbridge as a secondary workplace. Travel expenses only can however be 
+claimed on a nil-gain nil-loss basis. Employees are therefore entitled to claim any mileage excess over and 
+above their normal commute to Granta Park.  
+13 
+ 
+ 
+4.4 Emergency Call Out / Stand By 
+ 
+Travel from home to work to attend an emergency call-out, even outside normal working hours, is regarded 
+by HMRC as ordinary commuting and therefore cannot be claimed, except as outlined in 4.5 below.  
+ 
+4.5 Out of Hours Working 
+ 
+Where an employee is required to work exceptionally late they can be reimbursed a taxi fa re home. This is 
+allowable if: 
+ 
+• it has been authorised in advance, or is due to an emergency 
+• the employee is required to work later than usual (e.g. at least 9:00pm); 
+• this occurs irregularly. (If taxi fares are regular or frequent , e.g. every Friday or appears to form 
+an informal work pattern, then this may become subject to incurring a tax liability); 
+• where it is considered safer to travel by taxi than public transport at night. 
+ 
+ 
+5. TRAVELLING WITH A COMPANION 
+ 
+A companion (i.e. spouse, partner, or friend) may travel with a University employee on a business trip if the 
+partner does not travel at the University’s expense. 
+ 
+The partner’s travel costs must be invoiced and paid for privately. This can be arranged by contacting the 
+University’s approved supplier who can book the entire trip but ensuring that the University is only invoiced 
+for the employee’s travel costs. 
+ 
+Travel insurance will be for the responsibility of the companion and will not be covered by the University’s 
+business travel insurance. 
+ 
+Where additional expenses are incurred during the trip and receipts include both employee and partner costs, 
+the employee can only claim back the proportion of the cost that relates to their business expense. 
+ 
+ 
+6. COMBINING BUSINESS AND PERSONAL TRIPS 
+ 
+Combining business and personal travel is acceptable ONLY where the employee meets all the costs related 
+to the “personal” element of their trip and travel has been preapproved by the authorising manager. 
+ 
+Where travelling overseas for business, the University will reimburse the return flight home provided that the 
+cost of such is no more than it would have been had the employee returned home immediately following 
+conference/business meeting. Private travel insurance must be taken out for the proportion of the trip that is 
+personal. 
+ 
+6.1 Loyalty Programmes 
+ 
+When setting up a profile with the approved supplier in advance of booking travel or accommodation, an 
+employee has the option to provide their loyalty programme details; for example, in respect of membership 
+to air miles.  All travel must be cost effective and suitable air fares must be chosen irrespective of any loyalty 
+schemes. Please be aware that by entering your loyalty programmes into your profile and bookings there 
+may be a tax liability which would be the employee’s responsibility to report to HMRC. 
+ 
+ 
+ 
+14 
+ 
+ 
+ 
+Appendix 1 
+ 
+Table of Allowable / Non- Allowable Travel Expenditure  
+ 
+CATEGORY 
+ 
+ 
+UNIVERSITY 
+POLICY 
+ALLOWABLE 
+YES/NO 
+COMMENTS 
+ 
+AIR TRAVEL    
+ 
+All travel must be cost effective and suitable air fares must be chosen irrespective of any personal 
+loyalty schemes / air miles or personal choice .  Air miles will be redeemable by Brunel University 
+London and not individual4. 
+ 
+UK AIR TRAVEL Air travel within the 
+mainland UK, is not 
+allowable. Line 
+Managers may 
+approve requests for 
+air travel to these 
+destinations only 
+where there is a 
+strong justification 
+(which may be related 
+to EDI or opportunity 
+costs). 
+ 
+Air travel to Northern 
+Ireland and islands is 
+permitted, although 
+alternatives (eg. 
+ferries) should be 
+considered 
+University Approved 
+supplier must be used 
+to book flight(s). 
+ 
+  YES 
+ 
+All Air  Travel must be booked through the 
+approved supplier, Diversity Travel. 
+ Economy class only 
+ 
+ 
+  
+    
+OVERSEAS AIR 
+TRAVEL 
+All overseas travel 
+must have prior 
+authorisation, from 
+the line manager 
+YES All Air Travel must be booked through the 
+approved supplier, Diversity Travel. 
+ 
+ 
+4An employee may include their own loyalty programme details on their profile with the Travel Provider, however 
+attention is drawn to 6.1 of the Travel and Expenses policy in respect of any possible tax liability resulting.  
+15 
+ 
+before any booking is 
+made. 
+ 
+The University’s 
+approved supplier 
+(Diversity) must be 
+used to book flight(s). 
+ 
+Air travel to Paris or 
+Brussels, is not 
+allowable. Line 
+Managers may 
+approve requests for 
+air travel to these 
+destinations only 
+where there is a 
+strong justification 
+(which may be related 
+to EDI or opportunity 
+costs). 
+ 
+Economy class only 
+ 
+  
+    
+ Premium Economy 
+will only be 
+considered in 
+exceptional 
+circumstances (i.e. 
+Occupational Health 
+reason) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Must be supported by a report from 
+Occupational Health where  this relates to a 
+medical reason or disability , or a doctor’s 
+letter. 
+FLIGHT 
+UPGRADES 
+Flight upgrades are 
+not allowed at the 
+University’s expense.  
+ 
+ 
+ 
+NO  If a staff member wishes to upgrade flights this 
+must be done at their own expense.  
+Diversity’s offline team can charge the cost of 
+the economy ticket price to BUL then the 
+traveller will pay the difference for the 
+upgrade, the staff member will then be sent a 
+link via Diversity for payment 
+EXCESS 
+BAGGAGE 
+CHARGES 
+This will only be 
+allowable if it relates 
+to research, teaching 
+equipment or 
+materials (e.g. 
+marketing brochures) 
+required for University 
+purposes and must 
+be booked in advance 
+of travel or 
+alternatively if it is 
+required related to 
+any disability. 
+YES Staff member(s) must ensure they are fully 
+aware of airline weight allowances before 
+check-in. 
+ 
+    
+ Excess baggage at 
+check-in will not be 
+No  
+16 
+ 
+reimbursed, except 
+where required for 
+university business 
+and approved in 
+advance (e.g.  
+recruitment materials; 
+research equipment) 
+SEAT 
+RESERVATION 
+FEES 
+  NO 
+ 
+ 
+LOST 
+LUGGAGE  
+ NO The University will not reimburse as this will 
+be deemed to be covered by any subsequent 
+insurance claim. 
+ 
+AIRPORT 
+LOUNGE 
+This will only be 
+allowable where 
+travel is overnight, or 
+a stopover between 
+flights is more than 3 
+hours; and is to the 
+maximum of the 
+allowance under 
+subsistence. 
+ 
+ 
+ 
+YES This does 
+not include 
+membership 
+of an Airport 
+Lounge, or a 
+subscription 
+fee – which 
+is not 
+allowable. 
+RAIL TRAVEL    
+UK RAIL 
+TRAVEL 
+Standard or economy 
+class is the expected 
+standard of travel. 
+YES It is expected this will be booked in advance 
+through the preferred supplier, Diversity .  
+Reimbursements for journeys outside of 
+London and the local area will only be made 
+in exceptional circumstances, as noted in 3.4 
+    
+ Be aware that some 
+train tickets are 
+retained at the end of 
+the journey by 
+automatic barriers, so 
+a receipt should be 
+requested at point of 
+purchase. 
+ Receipt(s) must be provided if University 
+approved supplier is not used.  
+ 
+Approval for travel other than standard or 
+economy must be obtained in advance from 
+authoriser (e.g. In case of disability or medical 
+advice). 
+ 
+ 
+   
+    
+    
+UK RAIL 
+TRAVEL 
+(Including Tube) 
+Underground Tickets 
+(which includes 
+Oyster Card, travel 
+card) 
+YES  
+    
+ Contactless Payment YES Submit a print out of relevant journey history 
+from an online TFL account which can be 
+accessed online at 
+https://oyster.tfl.gov.uk/oyster . To connect a 
+contactless payment card to an online TfL 
+account visit: 
+17 
+ 
+https://contactless.tfl.gov.uk/DashBoard or 
+please use the relevant extract from your 
+Bank Statement. 
+ Season Ticket NO The only time any reimbursement will be 
+made is where travel takes place outside the 
+Season Ticket’s travel zone  
+OVERSEAS 
+RAIL TRAVEL 
+Standard or economy 
+class is the expected 
+standard of travel.  
+ 
+1st Class rail travel be 
+allowed in certain 
+situations (in these 
+cases a Risk 
+Assessment must 
+have been carried 
+out). 
+ 
+YES It is expected this will be booked in advance 
+through the preferred supplier, Diversity 
+Travel. Reimbursements will only be made in 
+exceptional circumstances, as noted in 3.4. 
+Approval for travel other than standard or 
+economy must be obtained in advance from 
+authoriser (e.g. In case of disability). 
+ 
+ 
+BUSINESS 
+MILEAGE 
+   
+MILEAGE 
+RATES 
+Car Mileage (all 
+engine sizes and fuel 
+types including 
+electric and ULEV)) 
+YES 
+ 
+ 
+HMRC rates apply 
+ 
+For the first 10,000 miles of the tax year (6th 
+April to 5th April of the following year). 
+ 
+  After 10,000 miles the rate will drop to the 
+lower statutory rate. 
+ 
+Fuel Cost NO Individual receipts for fuel cost will not be 
+reimbursed as this is covered by use of 
+above mileage rates. 
+ 
+ Passenger 
+Supplement 
+YES When transporting colleagues for a business 
+event, an employee using their own car can 
+claim a passenger allowance - including the 
+names of the colleague(s).  
+    
+ Motor Cycle YES  
+    
+ Pedal Cycle YES  
+FUEL  Using own car 
+ 
+ 
+ Above rates apply. 
+ 
+HIRE CARE (UK 
+& Overseas) 
+   
+HIRE CAR  Peugeot 208, Fiat 
+500, Vauxhall/Opel 
+Corsa, Renault Clio or 
+similar car can be 
+booked. 
+Up to 2 people, the car 
+rented should be 3 -
+doors (if no 3 -doors 
+available, please book 
+the cheapest 5 -doors 
+available). 
+NO It is requested that the use of public transport 
+(bus, tube, rail) or private car is considered 
+before using a hire car. 
+ 
+However, it is recognised that there will be 
+circumstances where hire car may be 
+appropriate e.g. where hire of a car may be 
+more cost effective than using private car and 
+claiming mileage. 
+ 
+ 
+18 
+ 
+Above 2 people, the 
+car rented can be 5 -
+doors. 
+ 
+ 
+Specialist vehicles 
+might be required 
+occasionally for 
+transporting large 
+equipment or 
+accessing remote 
+locations.  
+Before 
+Commencement 
+The driver is 
+requested to check 
+the vehicle for 
+damages (scratches, 
+dents etc.) or any 
+other abnormalities. 
+Any existing damage 
+should already be 
+identified on the 
+Rental Vehicle 
+Conditions Report 
+supplied with the 
+vehicle. 
+ 
+If new damage is 
+found, the driver must 
+contact Enterprise 
+and complete their 
+incident report form. 
+This is necessary so 
+that the University is 
+not held liable for the 
+cost of repair of any 
+damage for which it is 
+not responsible. 
+ 
+If the hire contract 
+involves payment for 
+mileage travelled, the 
+driver should record 
+the mileage of the 
+vehicle at the start of 
+the journey. 
+ 
+On Completion of 
+Journey 
+If the hire contract 
+involves payment for 
+mileage travelled, the 
+driver should record 
+the mileage of the 
+In the UK, all hired cars must be booked via 
+Enterprise (preferred Supplier), outside the 
+UK, employees must book via Diversity 
+Travels Oak Team. 
+ 
+Any damage to the vehicle, or costs incurred, 
+not covered by the Insurance obtained 
+through the rental company will be for the 
+Employee to settle with the rental company 
+19 
+ 
+vehicle at the end of 
+the journey. 
+ 
+FUEL  YES Where it is the condition of the hire that the 
+hire car should be refilled with fuel, the 
+expenditure may be reclaimed through the 
+usual staff expenses claim procedure. A 
+receipt should be obtained & attached to the 
+claim. 
+ 
+HIRE CAR 
+INSURANCE 
+ YES Insurance must be arranged at the time of 
+ordering the hire car. It is essential that 
+employees comply fully with ALL insurance 
+requirements of the hire car company. 
+ 
+TAXI (UK and 
+Overseas) 
+   
+TAXI  It is encouraged that 
+public transport (bus, 
+tube, or train) is used 
+but it is recognised 
+there may be 
+circumstances where 
+a taxi may be used 
+• Where 
+equipment or 
+heavy 
+baggage is 
+being carried; 
+• Where 
+claimant is 
+pregnant, 
+unwell or has 
+disability; 
+• Where 
+personal or 
+financial 
+security is an 
+issue; 
+• When it is 
+important to 
+save working 
+time; and/or 
+• When no 
+public 
+transport is 
+available.  
+YES Travel by taxi should be kept to a minimum 
+and not used for long journeys. 
+ 
+However, tips will NOT be reimbursed. 
+ 
+Whenever possible, use of taxi/hotel 
+cars/Uber or other such services must be 
+agreed with the line manager in advance to 
+avoid potential issues when claiming 
+reimbursement of the fare incurred. 
+ 
+Receipt(s) must be obtained from the taxi 
+driver and staff must state clearly on the 
+expenses claim form the reason for use of 
+the taxi. If Uber is used an email receipt 
+should be provided.   
+    
+OTHER FORMS 
+OF TRAVEL 
+   
+BUS / TRAM / 
+COACH TRAVEL 
+UK and Overseas YES Where practical please use coach hire 
+suppliers available on CHIME. 
+FERRIES / 
+HYDROFOILS / 
+Water Taxis 
+UK and Overseas YES Where practical please use approved 
+supplier on CHIME otherwise submit claim 
+form with receipt attached. 
+20 
+ 
+OTHER TRAVEL 
+EXPENSES 
+   
+CAR PARKING 
+& TOLL 
+CHARGES 
+ YES Reasonable parking expenses & charges for 
+tolls will be reimbursed. Where possible 
+receipts must be attached with claim form, 
+unless there is a good reason why receipts 
+cannot be provided in which case the 
+charges should be itemised. 
+    
+PARKING FINES 
+ 
+ 
+ 
+ 
+ 
+ 
+ULEZ FEES 
+ NO 
+ 
+ 
+ 
+ 
+ 
+ 
+NO 
+The University will not reimburse employee 
+parking fines. 
+    
+SPEEDING 
+FINES 
+ NO The University will not reimburse employee 
+speeding fines. 
+  
+VISA/VACCINAT
+ION 
+ YES Claims will be reimbursed where the visa / 
+vaccination is required specifically for an 
+approved business trip. Receipt will need to 
+be included with Expenses claim. 
+Vaccinations should be arranged through 
+NHS. 
+    
+PASSPORT 
+FEES 
+ NO University will be able to reimburse an 
+employee’s passport fees for a second 
+passport if this is needed for business 
+reasons.  
+ 
+21 
+ 
+Table of Allowable / Non- Allowable Subsistence & Accommodation 
+ 
+CATEGORY UNIVERSITY POLICY ALLOWABLE 
+YES/NO 
+COMMENTS 
+SUBSISTENCE (UK 
+and Overseas) 
+   
+DAY 
+SUBSISTENCE 
+(UK) 
+ 
+ 
+ 
+OVERNIGHT 
+SUBSISTENCE 
+(UK) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+DAY 
+SUBSISTENCE 
+(Overseas)  
+OVERNIGHT 
+SUBSISTENCE 
+(Overseas)) 
+ 
+For a full working day ie. 
+breakfast and/or lunch:  
+Up to a maximum rate of 
+£15.00 per day  
+  
+ 
+Evening meal:  Up to a 
+maximum rate of £30.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The university will 
+reimburse up to the 
+equivalent HMRC scale 
+rate for the specific 
+country you are visiting:  
+Expenses rates for 
+employees travelling 
+outside the UK - GOV.UK 
+(www.gov.uk) 
+YES 
+ 
+ 
+ 
+ 
+ 
+YES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+YES 
+Does not include alcohol. 
+ 
+ 
+ 
+ 
+ 
+Subsistence (day or overnight) can 
+only be claimed once in the same 
+24-hour period. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In certain circumstances, i.e. when 
+there are security considerations, 
+the University might consider to 
+reimburse higher rates for receipted 
+expenses. A case will need to be 
+made to the Senior Payroll and 
+Pensions Manager in advance of 
+the expense is being incurred. 
+ 
+ 
+ 
+ 
+ 
+ACCOMMODATION 
+(UK and Overseas) 
+   
+HOTEL & 
+ACCOMMODATION 
+RATES 
+These must be booked 
+through the University’s 
+approved supplier 
+Diversity Travel. 
+ 
+Appropriate 
+accommodation is defined 
+as a three-star hotel in the 
+UK and the equivalent 
+overseas. Serviced 
+apartments available via 
+the approved supplier are 
+also considered 
+acceptable.  Occasionally,  
+a four-star or higher star 
+YES Accommodation Bookings that 
+include breakfast will not equate to 
+the full daily subsistence allowance.    
+If breakfast is purchased outside the 
+hotel this should have an equivalent 
+or lower value and a receipt will be 
+required.  
+ 
+The University does not approve the 
+use of Airbnb or similar services, as 
+the University cannot guarantee 
+meeting its duty of care 
+requirements, and will not reimburse 
+any claims. 
+22 
+ 
+rated hotel , may offer a 
+lower price than a typical 
+acceptable three-star 
+hotel, due to special price 
+promotions (that may not 
+be available via  Diversity 
+evidence must be 
+provided)etc, or due to the 
+location of the 
+Conference/Event being 
+attended.  Where the 
+traveller can demonstrate 
+that a hotel outside the 
+normal three-star policy is 
+more appropriate for the 
+arrangements, then a 
+justification should have 
+prior approval of the 
+booking being made.  
+Approval is via  the line 
+manager, and the 
+justification is also sent  to 
+the Payroll Team 
+(Employment Services) 
+and Travel Procurement 
+Team 
+(Travel@brunel.ac.uk). 
+ 
+ 
+ROOM UPGRADE  NO Claim will not be reimbursed. 
+   
+ 
+ 
+MINIBAR  NO Claim will not be reimbursed. 
+HOTEL 
+TELEPHONE 
+CALLS – 
+BUSINESS 
+ NO Business calls can be reclaimed. 
+Receipt required with actual 
+expenditure incurred. Expense claim 
+form must state reason for business 
+call. 
+HOTEL LAUNDRY  YES Reasonable laundry expenses can 
+be claimed; usually only applicable 
+for longer (>5 days) trips 
+GYM / SPA  NO Claim will not be reimbursed. 
+CABLE TV / PAY 
+AS YOU GO 
+MOVIES 
+ NO Claim will not be reimbursed. 
+    
+TIPS / SERVICE 
+CHARGE 
+Where gratuity is included 
+in bill, then it will be 
+reimbursed however 
+where tips are as 
+discretion of diner, this is 
+non-allowable 
+NO Claim will not be reimbursed. 
+STAYING WITH 
+FRIENDS / 
+RELATIVES 
+This is in lieu of hotel 
+expenses and limited to 
+£25 per day 
+YES Claimants staying overnight with 
+friends/ family but must provide 
+receipt which is signed by the party 
+and provides confirmation of dates, 
+location and amount paid. 
+23 
+ 
+    
+ 
+CATEGORY UNIVERSITY POLICY ALLOWABLE 
+YES/NO 
+COMMENTS 
+OTHER EXPENSES    
+PROFESSIONAL 
+SUBSCRIPTIONS 
+AND 
+MEMBERSHIPS 
+Professional fees and 
+subscriptions may be 
+claimed by employee’s in 
+roles graded up to and 
+including Grade 8 and only 
+where the organisation is 
+recognised and approved 
+by HMRC. For full 
+eligibility criteria, please 
+see the Universities 
+Professional subscriptions 
+and memberships policy. 
+ 
+YES - 
+SUBJECT TO 
+CRITERIA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information on the University’s 
+Professional Subscriptions policy 
+can be found at: 
+professional-subscriptions-
+policy.pdf (brunel.ac.uk) 
+ 
+Subscriptions that are associated 
+with the role rather than an 
+individual will be paid through the 
+Procurement process and should 
+not be claimed by individuals on 
+expense claim forms. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BOOKS    YES Where possible these should be 
+purchased through procurement. 
+    
+COURSES & 
+CONFERENCES 
+If an employee must attend 
+a course or conference, 
+this will need to be pre -
+approved by their line 
+manager before the course 
+is booked.  
+ 
+ 
+Employees who travel to 
+'work-related' training are 
+entitled to claim for the cost 
+of their journey. 
+YES Course(s) should be booked 
+through the route deemed 
+appropriate by the conference 
+organiser. 
+ 
+In exceptional circumstances, an 
+employee may seek approval from 
+Payroll in advance to book directly, 
+in which event a receipt will be 
+required. 
+ 
+Travel to and from the conference  
+must be booked via Diversity 
+Travel 
+ 
+PHONE RENTAL 
+ 
+ NO Claim will not be reimbursed. 
+MOBILE PHONE 
+HAND SET OR PAY 
+AS YOU GO 
+HANDSET  
+ NO Claim will not be reimbursed. 
+    
+PAY AS YOU GO 
+SIM CARD OR TOP 
+UP 
+ 
+ YES In line with the Mobile Phone 
+policy for overseas trips, 
+it is advisable not to use your own 
+personal mobile data as it can be 
+24 
+ 
+expensive. A local sim card or the 
+use of WIFI is advised. 
+Appropriate costs will be 
+reimbursed with the right 
+evidence.  
+ 
+ 
+PERSONAL 
+DESKTOP 
+ NO Such items should only be 
+purchased by the University and 
+follow the appropriate 
+Procurement process and 
+authorised by the line manager. 
+    
+COMPUTER 
+PERIPHERALS 
+ NO Such items should only be 
+purchased by the University and 
+follow the appropriate 
+Procurement process. 
+    
+LAPTOP  NO Such items should only be 
+purchased by the University and 
+follow the appropriate 
+Procurement process. 
+    
+MOBILE DEVICES  NO Claimant must not purchase 
+equipment and then reclaim 
+through expenses. 
+ 
+This can only be done through 
+procurement using approved 
+supplier or through use of the 
+University’s Purchasing card.   
+ 
+OTHER EQUIPMENT  NO Only if it relates to business and 
+follow the appropriate 
+Procurement process and 
+authorised by the line manager 
+GIFTS Gifts for employees (e.g. 
+flowers or other gifts) 
+NO Gifts to other members of staff 
+should always be personal 
+gestures and expense claims will 
+be rejected. 
+    
+ Gift cards /Vouchers for 
+employees 
+ 
+NO Vouchers count as earnings and 
+therefore become subject to 
+PAYE. 
+    
+ It is not University policy to 
+offer gifts to hosts, 
+external organisations or 
+individuals as the 
+University wants to avoid 
+any possible allegations of 
+bribery (under the Bribery 
+Act 2010). Please refer to 
+the University’s  
+Anti-bribery and corruption 
+policy 2023 
+  
+NO  
+25 
+ 
+ 
+26 
+ 
+Table of Allowable / Non- Allowable Entertainment Expenses 
+ 
+Entertaining is defined as the provision of food, drink, or other hospitality. This can occur 
+either on or off University premises and covers both staff events and entertaining 
+visitors/guests (i.e. non-staff members) 
+ 
+CATEGORY UNIVERSITY 
+POLICY 
+ALLOWABLE 
+YES/NO 
+COMMENTS 
+Staff Events on Campus – Will need 
+to go through Commercial 
+ 
+  
+PROVISION OF 
+REFRESHMENTS  
+DURING 
+MEETING 
+Light refreshments 
+include tea, coffee, 
+biscuits etc. 
+provided either 
+before or during 
+meeting 
+NO Use Campus Services – and liaise with 
+Department Administrators for booking. 
+    
+WORKING 
+LUNCHES 
+ELSEWHERE 
+There must be a 
+genuine reason 
+why it has been 
+held off-site and 
+allowed only in 
+exceptional 
+circumstances. It 
+must be pre-
+authorised by the 
+line manager 
+ 
+Other exceptions 
+maybe meetings 
+whereby meals 
+form the integral   
+focus  of the 
+meeting. The 
+meeting should 
+include 3rd parties 
+(such as lecturers, 
+business 
+associates or 
+clients) & is 
+supported by 
+formal agenda & 
+minutes of meeting 
+(including 
+attendees). 
+NO Visitor related Expenses would be paid by 
+Accounts Payable  
+ 
+STAFF LEAVING 
+FUNCTION 
+  
+NO 
+This would be deemed as taxable benefit and 
+would need to be recorded on either employee 
+P11D or on a PSA. 
+    
+SPOUSES & 
+PARTNERS 
+At social events NO Unless by formal invitation, e.g. Formal 
+Ceremonies. 
+ 
+ 
+ 
+ 
+Appendix 2 
+ 
+Frequently Asked Questions  
+ 
+General 
+ 
+QUESTION What are the applicable rate caps for hotel bookings? 
+ 
+ANSWER – 
+- London £170 per night 
+- UK (excluding London) £120 per night 
+- EU £120 per night 
+- Rest of the world £170 per night.  
+ 
+QUESTION Can I use my personal credit or debit card to book my travel and claim this back on 
+expenses?  
+ 
+ANSWER    No, you must use the University’s preferred supplier Diversity to make travel 
+bookings. The only exception will be where it is not possible to book through Diversity   in which 
+case you must seek Procurement’s approval, and this must be arranged in advance of travel. 
+ 
+ 
+QUESTION Can I take my partner/ spouse on overseas business trip? 
+ 
+ANSWER     Yes, you can but the University will only reimburse your travel, subsistence, and 
+accommodation costs. You will need to pay for your partner/spouse’s costs separately 
+ 
+ 
+QUESTION My partner is accompanying me and I am staying in a double room at no extra cost 
+to the University. Is there a liability?  
+ 
+ANSWER     No, as there is no additional cost there is no tax liability 
+ 
+  
+QUESTION   I live far from work, the airport closer to my home is further away from the 
+University.Must I travel from the closest airport to the University? 
+ 
+ANSWER   No, you may travel from an airport closer to your home.,  This will be the most 
+appropriate option in respect of costs, convenience and personal safety.   
+ 
+ 
+QUESTION   I would like to request a stop-over as a personal choice – how can I do this? 
+ 
+ANSWER   This can be discussed with Diversity Travel , who will explore the options and discuss 
+the associated costs with you. Please note that such costs will be paid at your expense. 
+ 
+ 
+QUESTION   The conference I am attending has arrangements with a particular hotel.  Can I 
+book it directly and request reimbursement? 
+ 
+ 
+ 
+ 
+ANSWER   No. If the conference has arrangements in place with the hotel this can be booked 
+with the departmental purchasing card (P Card) , please ensure prior approval via line manager 
+and the BUoL travel team ( Travel@brunel.ac.uk )   Reimbursements for hotel accommodation 
+will not be made through payroll.   
+ 
+ 
+QUESTION   I am travelling for research purposes across various locations within a country.  
+How do I make a last-minute booking? 
+ 
+ANSWER   Our TMC will be able to assist you. 
+ 
+ 
+ 
+QUESTION Does Brunel Travel insurance cover both UK as well as overseas travel?  
+ 
+ANSWER Yes it does.  
+ 
+ 
+ QUESTION What is the Business Travel policy on participating in hazardous activities? Is this 
+covered?  
+ 
+ANSWER     The University has a duty of care for all its staff and advises against any participation 
+in hazardous activities. The risk assessment should cover this.  
+ 
+ 
+QUESTION   What if I have a pre-existing health condition, will I still be covered under the travel 
+insurance policy 
+ 
+ANSWER   In this situation, please seek medical advice then email Insurance@brunel.ac.uk as BUL 
+insurance broker will need to be informed of this pre-existing condition. 
+ 
+ 
+QUESTION   How often should I be in contact with my line manager whilst traveling abroad for 
+the University?  
+ 
+ANSWER   You should keep in contact with your line manager / the University on a regular basis 
+during your travels. This may mean on a daily basis depending on your location and the nature 
+of your travel. You MUST provide emergency contact details to your line manager and at least 
+one other member of staff (Department administrator; PA; etc)   
+ 
+ 
+Health and Safety 
+ 
+QUESTION    May I travel to areas against Foreign Commonwealth and Development Office 
+(FCDO) advice?  
+ 
+ANSWER   The University will not support or authorise any travel to areas that are against FCDO 
+advice. 
+ 
+ 
+QUESTION What happens if the FCDO advise against travel to an area and this is 
+communicated  after I have made my booking?  
+ 
+ 
+ 
+ 
+ANSWER   Provided that you booked your travel insurance before this was communicated ,the 
+University insurance should cover any cancellation.    
+ 
+ 
+QUESTION   Does the University recommend I apply for a UK Global Health Insurance Card in 
+addition to applying for Business travel insurance when I go to an EU country for University 
+business? 
+ 
+ANSWER The traveller is advised to have a UK Global Health Insurance Card if you are eligible 
+for one. 
+ 
+ 
+Claims 
+QUESTION    How long should I retain my receipts after a claim has been reimbursed? 
+ 
+ANSWER   Once the claim has been submitted with the receipts electronically, and reimbursed, 
+you are not required to retain your receipts.   
+ 
+ 
+QUESTION   What is the cut-off date for claims to be reimbursed? 
+ 
+ANSWER   Payroll typically closes on the 10 th of the month for Expense Claims, they must be 
+received and approved through CHIME within the timeframe to be able to be processed.  
+ 
+ 
+QUESTION    Is a manual receipt accepted? 
+ 
+ANSWER   In exceptional circumstances, it can be arranged with Payroll and Finance for a 
+manual receipt to be accepted as proof of expense.. This is to be able to pay for expenses when, 
+for example, in a location that would be unable to process card transactions. Sufficient notice of 
+at least a month is required to consider such a request. 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
