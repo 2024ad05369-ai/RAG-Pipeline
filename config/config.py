@@ -45,8 +45,8 @@ OUTPUT_DIR = PROJECT_ROOT / "outputs"
 # Maximum number of tokens allowed in a chunk
 MAX_CHUNK_TOKENS = 200
 
-# Percentage overlap between consecutive chunks
-CHUNK_OVERLAP_PERCENT = 10
+# Number of tokens to overlap between consecutive chunks
+CHUNK_OVERLAP_TOKEN_COUNT = 20
 
 # ==============================================================================
 # Retrieval Configuration
