@@ -2,7 +2,7 @@
 Project Configuration
 
 Author:
-    Mrityunjay Dubey
+    Mrityunjay Dubey, Hari Sharma
 
 Description:
     This module centralizes all configurable parameters used across the
@@ -79,4 +79,17 @@ TOKENIZER_DIRECTORY = (
     / "models"
     / "tokenizer"
     / "current"
+)
+
+# ==============================================================================
+# Embeddings Configuration
+# ==============================================================================
+
+EMBEDDINGS_MODEL_NAME = "all-MiniLM-L6-v2"
+
+EMBEDDINGS_DIRECTORY = (
+    PROJECT_ROOT
+    / "models"
+    / "embeddings"
+    / EMBEDDINGS_MODEL_NAME
 )

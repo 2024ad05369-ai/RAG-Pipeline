@@ -1,80 +1,146 @@
-#
-# Tokenize the current sentence.
-#
-sentence_token_ids = Tokenizer.tokenize(sentence)
+"""
+Semantic Chunker
 
-#
-# -------------------------------------------------------------------------
-# Handle oversized sentence.
-#
-# If a single sentence exceeds the configured chunk size,
-# preserving the sentence boundary is impossible.
-#
-# In this case:
-#   1. Flush the current chunk (if any).
-#   2. Split only this sentence into fixed-size token chunks.
-# -------------------------------------------------------------------------
-#
-if len(sentence_token_ids) > self.chunk_size:
+Author:
+    Mrityunjay Dubey, Hari Sharma
 
-    #
-    # Flush the current semantic chunk before processing
-    # the oversized sentence.
-    #
-    if current_tokens:
+Description
+-----------
+Implements semantic chunking using sentence embeddings.
 
-        chunks.append(
-            self._create_chunk(
-                chunk_id=chunk_id,
-                document=document,
-                token_ids=current_tokens,
-                start_token=start_token,
-            )
-        )
+Characteristics
+---------------
+- Splits text based on semantic similarity
+- Uses sentence-transformers for embeddings
+- Detects topic shifts using cosine similarity threshold
+"""
 
-        chunk_id += 1
+import re
 
-        start_token += len(current_tokens)
+import numpy as np
+from sentence_transformers import SentenceTransformer
+from config.config import MAX_CHUNK_TOKENS
+from src.chunking.base_chunker import BaseChunker
+from src.models.chunk import Chunk
+from src.models.document import Document
+from src.utils.embeddings import SentenceEmbedding
 
-        current_tokens.clear()
+class SemanticChunker(BaseChunker):
+    """
+    Creates fixed-size chunks without overlap.
 
-    #
-    # Split the oversized sentence using fixed-size token chunks.
-    #
-    for start in range(
-        0,
-        len(sentence_token_ids),
-        self.chunk_size,
-    ):
+    Each chunk contains at most MAX_CHUNK_TOKENS tokens.
+    """
 
-        end = min(
-            start + self.chunk_size,
-            len(sentence_token_ids),
-        )
+    def __init__(self, chunk_size: int = MAX_CHUNK_TOKENS):
+        """
+        Initialize the FixedChunker.
 
-        token_slice = sentence_token_ids[start:end]
+        Parameters
+        ----------
+        chunk_size : int
+            Maximum number of tokens per chunk.
+        """
 
-        chunk_text = Tokenizer.detokenize(
-            token_slice
-        )
+        self.chunk_size = chunk_size
 
-        chunks.append(
-            Chunk(
-                chunk_id=chunk_id,
-                document_id=document.document_id,
-                document_name=document.file_name,
+    def create_chunks(self, documents: list[Document],) -> list[Chunk]:
+        """
+        Create semantic chunks from the supplied documents.
 
-                start_token=start_token,
-                end_token=start_token + len(token_slice) - 1,
+        Parameters
+        ----------
+        documents : list[Document]
+            Documents to be chunked.
 
-                text=chunk_text,
+        Returns
+        -------
+        list[Chunk]
+            Generated semantic chunks.
+        """
+        chunk_id = 1
+        start = 0
+        end = 0
+        all_chunks = []
+        for document in documents:
+            text = document.text
+            semantic_chunks = self.get_semantic_chunks(text)
+            for chunk_text in semantic_chunks:
+                start = start + end
+                total_tokens = len(chunk_text.split())
+                end = end + total_tokens
+                chunk = Chunk(
+                    chunk_id=chunk_id,
+                    document_id=document.document_id,
+                    document_name=document.file_name,
+                    start_token=start,
+                    end_token=end - 1,
+                    text=chunk_text,
+                    token_count=len(chunk_text.split()),
+                    strategy="Semantic",
+                )
+                all_chunks.append(chunk)
+                chunk_id += 1
 
-                token_count=len(token_slice),
+        return all_chunks
+    
+    def cosine_similarity(self, v1, v2):
+        """
+        Compute the cosine similarity between two vectors.
+        """
+        return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
 
-                strategy="Semantic",
-            )
-        )
+    def get_semantic_chunks(self, text, percentile_threshold=70):
+        """
+        Create semantic chunks from the supplied text.
 
-        chunk_id += 1
+        Parameters
+        ----------
+        text : str
+            Input text to be segmented into semantically coherent chunks.
+        percentile_threshold : int
+            Percentile used to determine the similarity threshold for splitting.
 
-        start_token += len(token_slice)
+        Returns
+        -------
+        list[str]
+            Generated semantic chunks.
+        """
+
+        # Split the input text into sentences for semantic analysis.
+        sentences = re.split(r'(?<=[.!?])\s+', text)
+        sentences = [s.strip() for s in sentences if s.strip()]
+
+        if not sentences:
+            return []
+
+        embeddings = SentenceEmbedding.get_SentenceEmbedding(sentences)
+        print(f"Embedding generated successfully! Vector shape: {embeddings.shape}")
+
+        # Calculate cosine similarity between adjacent sentences.
+        similarities = []
+        for i in range(len(embeddings) - 1):
+            sim = self.cosine_similarity(embeddings[i], embeddings[i+1])
+            similarities.append(sim)
+
+        # Determine a threshold for identifying topic shifts.
+        threshold = np.percentile(similarities, percentile_threshold)
+
+        # Segment the text into chunks based on semantic similarity.
+        chunks = []
+        current_chunk = [sentences[0]]
+
+        for i, sim in enumerate(similarities):
+            if sim < threshold:
+                # Topic shift detected; finalize the current chunk and start a new one.
+                chunks.append(" ".join(current_chunk))
+                current_chunk = [sentences[i + 1]]
+            else:
+                current_chunk.append(sentences[i + 1])
+
+        # Add the final chunk if any text remains.
+        if current_chunk:
+            chunks.append(" ".join(current_chunk))
+
+        return chunks
+
