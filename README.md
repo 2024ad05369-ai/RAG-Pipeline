@@ -90,7 +90,7 @@ python -m tests.test_chunker_performance
 ```
 
 Output:
-```
+```text
 21-07-2026 07:57:21 | INFO | RAGPipeline | Loading HR Policy documents...
 Loading weights: 100%|##########| 103/103 [00:00<00:00, 7098.94it/s]
 21-07-2026 07:57:21 | INFO | RAGPipeline | Found 6 text files.
