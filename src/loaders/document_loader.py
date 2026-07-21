@@ -2,7 +2,7 @@
 Document Loader
 
 Author:
-    Mrityunjay Dubey
+    Mrityunjay Dubey, Hari Sharma
 
 Description:
     Loads all cleaned text documents from the corpus directory and

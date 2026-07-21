@@ -1,3 +1,14 @@
+"""
+It is a simple test script for verifying the document loader.
+
+Author:
+    Mrityunjay Dubey, Hari Sharma
+
+Description:
+    This script loads documents using the document loader and prints the
+    loaded document information for basic verification.
+"""
+
 from src.loaders.document_loader import DocumentLoader
 
 

@@ -1,5 +1,12 @@
 """
-Test Sliding Window Chunker
+It is a test script for validating sliding-window chunking behavior.
+
+Author:
+    Mrityunjay Dubey, Hari Sharma
+
+Description:
+    This script loads documents, creates sliding-window chunks, and validates the
+    chunk sizes and overlap behavior for the chunking pipeline.
 """
 
 from src.chunking.sliding_window_chunker import (

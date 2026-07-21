@@ -1,8 +1,12 @@
 """
-Tokenizer Utility
+It is a utility module for loading and using a tokenizer in the RAG pipeline.
 
-Provides a singleton tokenizer instance for the
-entire RAG pipeline.
+Author:
+    Mrityunjay Dubey, Hari Sharma
+
+Description:
+    This module provides a singleton wrapper for loading the locally stored
+    tokenizer and converting text into tokens and back.
 """
 
 from transformers import AutoTokenizer

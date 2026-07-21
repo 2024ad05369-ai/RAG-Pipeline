@@ -1,5 +1,12 @@
 """
-Downloads the tokenizer once and stores it inside the project.
+It is a script for downloading the tokenizer for the Sentence Transformer model.
+
+Author:
+    Mrityunjay Dubey, Hari Sharma
+
+Description:
+    This script downloads the tokenizer once and stores it in the project's local
+    models directory so it can be reused without needing to download it repeatedly.
 """
 
 from pathlib import Path

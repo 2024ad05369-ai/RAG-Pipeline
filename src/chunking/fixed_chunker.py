@@ -2,7 +2,7 @@
 Fixed Size Chunker
 
 Author:
-    Mrityunjay Dubey
+    Mrityunjay Dubey, Hari Sharma
 
 Description
 -----------

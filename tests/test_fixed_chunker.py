@@ -1,3 +1,14 @@
+"""
+It is a test script for validating fixed-size chunking behavior.
+
+Author:
+    Mrityunjay Dubey, Hari Sharma
+
+Description:
+    This script loads documents, creates fixed-size chunks, and validates the
+    chunk structure and token ranges for the chunking pipeline.
+"""
+
 from src.chunking.fixed_chunker import FixedChunker
 from src.loaders.document_loader import DocumentLoader
 from src.models import chunk

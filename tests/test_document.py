@@ -1,3 +1,14 @@
+"""
+It is a simple test script for verifying the Document model.
+
+Author:
+    Mrityunjay Dubey, Hari Sharma
+
+Description:
+    This script creates a sample Document object and prints its basic properties
+    to verify the document model behavior.
+"""
+
 from pathlib import Path
 
 from src.models.document import Document

@@ -1,3 +1,14 @@
+"""
+It is a simple test script for verifying tokenizer loading and encoding.
+
+Author:
+    Mrityunjay Dubey, Hari Sharma
+
+Description:
+    This script loads the local tokenizer from disk, encodes a sample sentence,
+    and prints the resulting tokens and decoded text.
+"""
+
 from transformers import AutoTokenizer
 
 tokenizer = AutoTokenizer.from_pretrained(

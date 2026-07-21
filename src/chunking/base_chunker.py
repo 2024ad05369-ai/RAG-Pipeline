@@ -2,7 +2,7 @@
 Base Chunker
 
 Author:
-    Mrityunjay Dubey
+    Mrityunjay Dubey, Hari Sharma
 
 Description:
     Defines the abstract interface for all chunking strategies.

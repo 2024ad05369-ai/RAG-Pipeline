@@ -2,7 +2,7 @@
 Centralized Logging Configuration
 
 Author:
-    Mrityunjay Dubey
+    Mrityunjay Dubey, Hari Sharma
 
 Description:
     Creates a single logger instance that is shared across the

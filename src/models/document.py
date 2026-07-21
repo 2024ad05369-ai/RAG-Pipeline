@@ -1,7 +1,12 @@
 """
-Document Model
+It is a model class for representing a source document in the RAG pipeline.
 
-Represents a source document loaded into the RAG pipeline.
+Author:
+    Mrityunjay Dubey, Hari Sharma
+
+Description:
+    This module defines the Document data model with metadata and content
+    information for documents loaded into the system.
 """
 
 from dataclasses import dataclass
