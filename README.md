@@ -89,6 +89,34 @@ Example:
 python -m tests.test_chunker_performance
 ```
 
+Output:
+```
+21-07-2026 07:57:21 | INFO | RAGPipeline | Loading HR Policy documents...
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 7098.94it/s]
+21-07-2026 07:57:21 | INFO | RAGPipeline | Found 6 text files.
+Token indices sequence length is longer than the specified maximum sequence length for this model (2089 > 512). Running this sequence through the model will result in indexing errors
+21-07-2026 07:57:21 | INFO | RAGPipeline | Loaded CHSQF060-Workplace-Health-and-Safety-Policy-and-Procedures-v1.2.txt (1661 words)
+21-07-2026 07:57:21 | INFO | RAGPipeline | Loaded ENVIROFLY-HR-PolicyCode-of-Conduct.txt (5981 words)
+21-07-2026 07:57:21 | INFO | RAGPipeline | Loaded hr-policy-remote_work_policy.txt (3616 words)
+21-07-2026 07:57:21 | INFO | RAGPipeline | Loaded HR-Policy.txt                  (4466 words)
+21-07-2026 07:57:21 | INFO | RAGPipeline | Loaded Leave-and-Holiday-Policy.txt   (1316 words)
+21-07-2026 07:57:21 | INFO | RAGPipeline | Loaded travel-expenses-policy-nov-251.txt (9097 words)
+21-07-2026 07:57:21 | INFO | RAGPipeline | Successfully loaded 6 documents.
+Document: travel-expenses-policy-nov-251.txt, Words: 9097, Characters: 64132
+21-07-2026 07:57:21 | INFO | RAGPipeline | Starting Fixed Size Chunking...
+21-07-2026 07:57:21 | INFO | RAGPipeline | Processing document: travel-expenses-policy-nov-251.txt
+21-07-2026 07:57:21 | INFO | RAGPipeline | Fixed chunking completed. Generated 79 chunks.
+21-07-2026 07:57:21 | INFO | RAGPipeline | Starting Sliding Window Chunking...
+21-07-2026 07:57:21 | INFO | RAGPipeline | Sliding Window Chunking completed. Generated 88 chunks.
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 7327.10it/s]
+Embedding generated successfully! Vector shape: (403, 384)
+      Strategy  Total Chunks  Avg Chunk Length (Chars)  Std Dev Chunk Length  Broken Sentences (%)
+    Fixed-Size            79                124.164557             75.888898             69.620253
+Sliding Window            88                123.363636             76.416202             67.045455
+      Semantic           282                 32.258865             38.092278              0.000000
+
+```
+
 ## Notes
 
 This project is designed as a modular and extensible RAG pipeline that can be further improved with:
