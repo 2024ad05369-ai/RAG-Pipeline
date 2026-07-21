@@ -50,6 +50,58 @@ src/                 # Core source code for loaders, chunking, retrieval, and mo
 tests/               # Test scripts for validating components
 models/              # Downloaded embedding and tokenizer artifacts
 data/                # Corpus and domain documents
+
+Hierarchical Structure 
+
+RAG-Pipeline/
+├── README.md
+├── requirements.txt
+├── config/
+│   ├── __init__.py
+│   ├── config.py
+│   └── logging_config.py
+├── data/
+│   └── corpus/
+│       └── *.txt
+├── models/
+│   ├── embeddings/
+│   │   └── all-MiniLM-L6-v2/
+│   └── tokenizer/
+│       └── current/
+├── notebooks/
+│   └── Assignment2B_RAG.ipynb
+├── scripts/
+│   ├── download_embeddings.py
+│   ├── download_nltk_resources.py
+│   └── download_tokenizer.py
+├── src/
+│   ├── chunking/
+│   │   ├── base_chunker.py
+│   │   ├── chunk_metrics.py
+│   │   ├── fixed_chunker.py
+│   │   ├── semantic_chunker.py
+│   │   └── sliding_window_chunker.py
+│   ├── loaders/
+│   │   └── document_loader.py
+│   ├── models/
+│   │   ├── chunk.py
+│   │   └── document.py
+│   ├── retrieval/
+│   │   └── dense_retriever.py
+│   └── utils/
+│       ├── embeddings.py
+│       ├── sentence_splitter.py
+│       └── tokenizer.py
+└── tests/
+    ├── test_chunker_performance.py
+    ├── test_document_loader.py
+    ├── test_document.py
+    ├── test_embeddings.py
+    ├── test_fixed_chunker.py
+    ├── test_logger.py
+    ├── test_semantic_chunker.py
+    ├── test_sliding_window_chunker.py
+    └── test_tokenizer.py
 ```
 
 ## Technologies Used
